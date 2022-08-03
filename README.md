@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle Chan (@kylechanpols). Currently a PhD student in Political Science at the University of North Carolina at Chapel Hill. Former Data Science Intern at @dsg-tech.
+- 👋 Hi, I’m Kyle Chan (@kylechanpols). Currently a Data Science Intern at @dsg-tech, and PhD candidate in Political Science at the University of North Carolina at Chapel Hill. 
 - 👀 I'm a Data Scientist specializing in building machine learning projects to solve business problems in the retail industry, particularly on marketing and eCommerce applications.
 - 🎓 I have research experience with regression models and computer vision models. I TA-ed for a graduate-level Political Data Science course at UNC-Chapel Hill twice.
 - 🌱 I’m currently building up my skills in Machine Learning and general problem solving skills in Python. I also use R in my research.
